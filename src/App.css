@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-color: #ffffff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -123,16 +123,16 @@ input[type='number'] {
 }
 
 .list li.plus {
-  border-right: 5px solid #3A4D9D;
+  border-right: 10px solid #3A4D9D;
 }
 
 .list li.minus {
-  border-right: 5px solid #1B244C;
+  border-right: 10px solid #1B244C;
 }
 
 .delete-btn {
   cursor: pointer;
-  background-color: #e74c3c;
+  background-color: #6fd410;
   border: 0;
   color: #fff;
   font-size: 20px;
